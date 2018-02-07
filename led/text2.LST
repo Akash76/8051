@@ -1,0 +1,12 @@
+C51 COMPILER V9.52.0.0   TEXT2                                                             02/04/2018 16:01:09 PAGE 1   
+
+
+C51 COMPILER V9.52.0.0, COMPILATION OF MODULE TEXT2
+OBJECT MODULE PLACED IN text2.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE text2.c BROWSE DEBUG OBJECTEXTEND TABS(2)
+
+line level    source
+
+*** ERROR C318 OF text2.c: can't open file 'text2.c'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)

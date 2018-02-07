@@ -1,0 +1,3 @@
+#include<regx51.h>
+sbit a=p2^0;
+sbit b=P2^4;
